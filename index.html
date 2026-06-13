@@ -72,7 +72,9 @@ body {
     -webkit-touch-callout: none;
     user-select: none;
 }
-#menuBtn:active { opacity: 0.6; }
+#menuBtn:active { opacity: 0.6; 
+                transform: scale(0.92)
+}
 #menuBtn img {
     height: 100%;
     width: auto;
@@ -99,12 +101,12 @@ body {
     transform-origin: calc(100% - 28px) 32px;
     transform: scale(0.05);
     opacity: 0;
-    filter: blur(12px);
+    filter: blur(24px);
     pointer-events: none;
     transition:
-        transform 0.38s var(--snappy),
-        opacity 0.22s ease,
-        filter 0.3s ease;
+        transform 0.45s cubic-bezier(0.25, 1, 0.5, 1),
+        opacity 0.35s cubic-bezier(0.25, 1, 0.5, 1),
+        filter 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
 #menu.open {
     transform: scale(1);
