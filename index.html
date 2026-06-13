@@ -330,7 +330,8 @@ function parseTags(text) {
         .replace(/<mono>([\s\S]*?)<\/mono>/g, '<pre>$1</pre>')
         .replace(/<quote>([\s\S]*?)<\/quote>/g, '<blockquote>$1</blockquote>')
         .replace(/<link=(.*?)>([\s\S]*?)<\/link>/g, '<a href="$1" style="color:inherit" target="_blank" rel="noopener">$2</a>')
-        .replace(/<hr>/g, '<hr style="border:none;border-top:1px solid var(--border);margin:10px 0">');
+        .replace(/<hr>/g, '<hr style="border:none;border-top:1px solid var(--border);margin:10px 0">')
+        .replace(/<br\s*\/?>/gi, '<br>');
 }
 
 function init() {
