@@ -59,7 +59,6 @@ body {
     display: block;
     pointer-events: none;
     -webkit-user-drag: none;
-}
 #menuBtn {
     height: 38px;
     width: 38px;
@@ -68,12 +67,17 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: opacity 0.15s;
+    transition:
+        opacity 0.2s ease,
+        transform 0.2s cubic-bezier(0.22, 1, 0.36, 1);
     -webkit-touch-callout: none;
     user-select: none;
+    transform: scale(1);
 }
-#menuBtn:active { opacity: 0.6; 
-                transform: scale(0.92)
+
+#menuBtn:active {
+    opacity: 0.8;
+    transform: scale(0.85);
 }
 #menuBtn img {
     height: 100%;
@@ -86,8 +90,21 @@ body {
     inset: 0;
     z-index: 1999;
     pointer-events: none;
+
+    backdrop-filter: blur(0px);
+    background: rgba(0,0,0,0);
+
+    transition:
+        backdrop-filter 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+        background 0.7s cubic-bezier(0.16, 1, 0.3, 1);
 }
-#menuOverlay.open { pointer-events: auto; }
+
+#menuOverlay.open {
+    pointer-events: auto;
+
+    backdrop-filter: blur(10px);
+    background: rgba(0,0,0,0.18);
+}
 #menu {
     position: fixed;
     top: 0; right: 0;
@@ -98,20 +115,35 @@ body {
     z-index: 2000;
     display: flex;
     flex-direction: column;
+
     transform-origin: calc(100% - 28px) 32px;
-    transform: scale(0.05);
+
+    transform:
+        scale(0.75)
+        translateX(20px);
+
     opacity: 0;
-    filter: blur(24px);
+
+    filter:
+        blur(28px);
+
     pointer-events: none;
+
     transition:
-        transform 0.45s cubic-bezier(0.25, 1, 0.5, 1),
-        opacity 0.35s cubic-bezier(0.25, 1, 0.5, 1),
-        filter 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+        transform 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+        opacity 0.55s ease,
+        filter 0.7s cubic-bezier(0.16, 1, 0.3, 1);
 }
 #menu.open {
-    transform: scale(1);
+    transform:
+        scale(1)
+        translateX(0);
+
     opacity: 1;
-    filter: blur(0px);
+
+    filter:
+        blur(0px);
+
     pointer-events: auto;
 }
 #menuClose {
