@@ -7,6 +7,16 @@ Navigate to S@N Content Hub by going to Menu, then pressing the S@N Hub Link.<br
 <center><i>- Sunday at Noon</i></center>
 </bg>
 [/box2]
+[box1=Bold Changes]
+<bg=00b9ff>
+<center>
+<b>
+Bold changes. Seamless streaming.<hr>
+</b>
+</center>
+The new VOODAC website brings seamless connection with interaction. See the latest of VOODAC with video player panels. <br>Access the new S@N Content Hub to catch up on the latest productions.<br>It has never been easier to stay connected to S@N and get the latest updates. 
+</bg>
+[/box1]
 
 [footer]Copyright © 2026 VOODAC Digital. VOODAC Digital is a trademark of VOODAC. | Canada[/footer] 
 
