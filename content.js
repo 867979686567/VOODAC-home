@@ -26,38 +26,19 @@ The new VOODAC website brings seamless connection with interaction. See the late
 
 - And much more to come in August.
 [/box1]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
-[box2=hi]
-hello
-[/box]
 
 
+[cat=Request Development]
+Have an idea you want to bring to life?<br>Contact VOODAC and get a quote for your idea. <br>Contact <link=mailto:nexus44.solder@icloud.com>here</link>.
+[/cat]
+
+[cat=Repairs or Upgrades]
+Have something made by VOODAC that requires a repair or needs an upgrade? Your unit must be made with VOODAC and must pass the *assessment to be eligible for repair. Upgrades can only be performed on VOODAC units. <br>Contact <link=mailto:uplift.krill_0q@icloud.com>here</link>.
+[/cat]
+
+[cat=The Assessment...]
+What is the VOODAC assessment. In the Repairs or Upgrades section, it is mentioned you must pass the assessment. The VOODAC assessment is to determine whether the unit is totaled or not. If the unit does not meet the criteria, it will be rejected for repair. 
+[/cat]
 
 
 [footer]Copyright © 2026 VOODAC Digital. VOODAC Digital is a trademark of VOODAC. | Canada[/footer] 
