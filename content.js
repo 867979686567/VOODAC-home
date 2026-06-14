@@ -26,6 +26,29 @@ The new VOODAC website brings seamless connection with interaction. See the late
 
 - And much more to come in August.
 [/box1]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+[box2=]
+[/box2]
+
 
 [footer]Copyright © 2026 VOODAC Digital. VOODAC Digital is a trademark of VOODAC. | Canada[/footer] 
 
