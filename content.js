@@ -41,6 +41,11 @@ What is the VOODAC assessment. In the Repairs or Upgrades section, it is mention
 [/cat]
 
 
+[menulink=S@N Content Hub]
+https://867979686567.github.io/sn-home/
+[/menulink]
+
+
 [footer]Copyright © 2026 VOODAC Digital. VOODAC Digital is a trademark of VOODAC. | Canada[/footer] 
 
 `;
