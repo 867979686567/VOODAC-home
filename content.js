@@ -33,16 +33,29 @@ Have an idea you want to bring to life?<br>Contact VOODAC and get a quote for yo
 [/cat]
 
 [cat=Repairs or Upgrades]
-Have something made by VOODAC that requires a repair or needs an upgrade? Your unit must be made with VOODAC and must pass the *assessment to be eligible for repair. Upgrades can only be performed on VOODAC units. <br>Contact <link=mailto:uplift.krill_0q@icloud.com>here</link>.
+Have something made by VOODAC that requires a repair or needs an upgrade? Your unit must be made with VOODAC and must pass the *assessment to be eligible for repair. Upgrades can only be performed on VOODAC units. <br>Contact <link=mailto:nexus44.solder@icloud.com>here</link>.
 [/cat]
 
 [cat=The Assessment...]
 What is the VOODAC assessment. In the Repairs or Upgrades section, it is mentioned you must pass the assessment. The VOODAC assessment is to determine whether the unit is totaled or not. If the unit does not meet the criteria, it will be rejected for repair. 
 [/cat]
 
+[cat=Contact Other]
+Have a suggestion or a concern:<br>
+Please reach out to VOODAC at <link=mailto:uplift.krill_0q@icloud.com>uplift.krill_0q@icloud.com</link>
+[/cat]
+
 
 [menulink=S@N Content Hub]
 https://867979686567.github.io/sn-home/
+[/menulink]
+
+[menulink=Get Web Shortcut]
+https://www.icloud.com/shortcuts/10afa93558e14253913f57bdd83dfbf9
+[/menulink]
+
+[menulink=Get S@N Shortcut]
+https://www.icloud.com/shortcuts/2829168dabd14ea09d7fcf7d4ec7796d
 [/menulink]
 
 
