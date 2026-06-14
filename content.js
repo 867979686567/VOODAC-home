@@ -27,13 +27,18 @@ The new VOODAC website brings seamless connection with interaction. See the late
 - And much more to come in August.
 [/box1]
 
+[box2=Navigation]
+<center><b>HOW TO NAVIGATE</b></center><hr>
+This is the VOODAC Home Page. If you want to access the menu, tap the VOODAC logo in the top right corner. 
+[/box2]
+
 
 [cat=Request Development]
 Have an idea you want to bring to life?<br>Contact VOODAC and get a quote for your idea. <br>Contact <link=mailto:nexus44.solder@icloud.com>here</link>.
 [/cat]
 
 [cat=Repairs or Upgrades]
-Have something made by VOODAC that requires a repair or needs an upgrade? Your unit must be made with VOODAC and must pass the *assessment to be eligible for repair. Upgrades can only be performed on VOODAC units. <br>Contact <link=mailto:nexus44.solder@icloud.com>here</link>.
+Have something made by VOODAC that requires a repair or needs an upgrade? Your unit must be made by VOODAC and must pass the *assessment to be eligible for repair. <br>Upgrades can only be performed on VOODAC units. <br>Contact <link=mailto:nexus44.solder@icloud.com>here</link>.
 [/cat]
 
 [cat=The Assessment...]
