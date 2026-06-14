@@ -21,8 +21,10 @@ The new VOODAC website brings seamless connection with interaction. See the late
 
 [box1=June - July Forecast]
 - Field Test Station to resume development after 6.19.<br>
-- Rock cleaner to be produced after 6.28.
-- S@N Stage announcement
+- Rock cleaner to be produced after 6.28.<br>
+- S@N Stage announcement.<br><br>
+
+- And much more to come in August.
 [/box1]
 
 [footer]Copyright © 2026 VOODAC Digital. VOODAC Digital is a trademark of VOODAC. | Canada[/footer] 
